@@ -1,4 +1,4 @@
-(defproject web3-cljs "1.0.0-beta.36"
+(defproject web3-cljs "1.0.0-beta.36-1"
   :description "web3.js"
   :url "https://web3js.readthedocs.io"
   :license {:name "Eclipse Public License"
